@@ -1,5 +1,5 @@
 # Power Balls Idle
-A web game was made by the Power Balls Team, Fan Made game by me.
+A web game was made by the Power Balls Team. Fan Made game by me.
 
 # Progress
 - Idle Ball Bouncing System : _**`100%`**_
