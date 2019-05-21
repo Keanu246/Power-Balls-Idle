@@ -25,7 +25,6 @@ var clickBalls = [
   {active:false,x:500,y:200,dx:-.707,dy:.707,color:"#666666",radius:20,bDamage:10,rank:1,cost:10,id:102,clone:false,speed:4}, 
   {active:false,x:700,y:200,dx:-.707,dy:.707,color:"#666666",radius:20,bDamage:10,rank:1,cost:10,id:103,clone:false,speed:4}, 
   {active:false,x:100,y:200,dx:-.707,dy:.707,color:"#666666",radius:20,bDamage:10,rank:1,cost:10,id:104,clone:false,speed:4},
-  {active:false,x:300,y:200,dx:-.707,dy:.707,color:"#666666",radius:20,bDamage:10,rank:1,cost:10,id:100,clone:false,speed:4}
   
 ] 
 var enemies = []; 
