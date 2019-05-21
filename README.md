@@ -1,5 +1,5 @@
-# Incremental Balls
-A web game by Conor and Aldiery based on the popular mobile game Idle Balls.
+# Power Balls Idle
+A web game was made by the Power Balls Team, Fan Made game by me.
 
 # Progress
 - Idle Ball Bouncing System : _**`100%`**_
